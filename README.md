@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Nat.
 - 👀 I’m interested in designing and coding accessibility tools for disabled, neurodivergent, and mentally ill folks.
-- 🌱 I’m currently learning Python in my CSCI 150 course.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python in my CSCI 150 course. 
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I have been to all 50 states and 27 national parks.
 
