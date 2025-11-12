@@ -1,5 +1,5 @@
 - Hi, I’m Nat.
-- I’m interested in software development, especially front-end web development.
+- I focus on software development, especially front-end web development.
 - Pronouns: they/them
 - Fun fact: I have been to all 50 states and 27 national parks.
 
