@@ -1,6 +1,5 @@
 - Hi, I’m Nat.
-- I’m interested in designing and coding accessibility tools for disabled, neurodivergent, and mentally ill folks.
-- I’m currently learning Python in my CSCI 150 course. 
+- I’m interested in software development, especially front-end web development.
 - Pronouns: they/them
 - Fun fact: I have been to all 50 states and 27 national parks.
 
